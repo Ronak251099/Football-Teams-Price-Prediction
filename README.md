@@ -11,6 +11,7 @@ Group members for this Project are:
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset Description](#dataset-description)
+- [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 
 ## Introduction
 The primary objective of this project is to analyze and derive insights from a dataset containing comprehensive information about football clubs. This includes player statistics, team performance, financial metrics, and more. By addressing a series of business questions, we aim to understand the factors influencing club performance, financial health, market value, fan engagement, and more.
@@ -42,3 +43,10 @@ The primary objective of this project is to analyze and derive insights from a d
 - KitManufacturer: Manufacturer of the team's kit.
 - OwnershipType: Ownership type of the team (e.g., Private).
 - Price: Market price of the team.
+
+## Data Cleaning and Preprocessing
+This process includes:
+- Identification and handling of missing values
+- Correction of errors and inconsistencies
+- Detection and handling of outliers
+- Ensuring correct data types and consistent formatting
